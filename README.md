@@ -13,4 +13,4 @@
 </p>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,bootstrap,tailwindcss,java,spring,javascript,typescript,vite,vuejs,react,mysql,mongodb,linux,arch,svg,sass,php,idea,vscode,maven,powershell,bash,dotnet,netlify,nodejs,npm,regex,postman,stackoverflow,visualstudio,yarn,materialui&theme=light&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,bootstrap,tailwindcss,java,spring,javascript,typescript,vite,vuejs,react,mysql,mongodb,linux,arch,svg,sass,php,idea,vscode,maven,powershell,bash,dotnet,netlify,nodejs,npm,regex,postman,visualstudio,yarn,materialui&theme=light&perline=15)](https://skillicons.dev)
