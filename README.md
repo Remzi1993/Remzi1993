@@ -1,10 +1,7 @@
 ## Hi 👋, I'm Remzi Cavdar
 ### A passionate software engineer from The Netherlands
-
 - 🔭 I’m currently working on **Java and Rust**
-
 - 👨‍💻 All of my projects are available at [https://remzi.info/portfolio](https://remzi.info/portfolio)
-
 - 📫 How to reach me **ict@remzi.info**
 
 ### Connect with me:
