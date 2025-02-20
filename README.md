@@ -14,7 +14,7 @@
 <a href="https://stackoverflow.com/users/10686802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10686802" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=devto&theme=light)](https://dev.to/remzi)
+[![My Skills](https://skillicons.dev/icons?i=devto&theme=dark)](https://dev.to/remzi)
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,bootstrap,tailwindcss,java,spring,javascript,typescript,vite,vuejs,react,mysql,mongodb,linux,arch,svg,sass,php,idea,vscode,maven,powershell,bash,dotnet,netlify,nodejs,npm,regex,postman,visualstudio,yarn,materialui&theme=light&perline=15)](https://skillicons.dev)
