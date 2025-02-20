@@ -5,9 +5,6 @@
 - 📫 How to reach me **ict@remzi.info**
 
 ### Connect with me:
-<p align="left">
-<a href="https://dev.to/remzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="remzi" height="30" width="40" /></a>
-
 [![My Skills](https://skillicons.dev/icons?i=devto&theme=dark)](https://dev.to/remzi)
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/remzicavdar)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/remzicavdar)
