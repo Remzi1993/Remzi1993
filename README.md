@@ -1,7 +1,7 @@
-## Hi 👋, I'm Remzi Cavdar
+## Hi 👋, I'm Remzi Çavdar
 ### A passionate software engineer from The Netherlands
 - 🔭 I’m currently working on **Kotlin, Android, Java and Rust**
-- 👨‍💻 All of my projects are available at [https://remzi.info/portfolio](https://remzi.info/portfolio)
+- 👨‍💻 All of my projects are available at my GitHub profile and some on my website at: [https://remzi.info/portfolio](https://remzi.info/portfolio)
 - 📫 How to reach me **ict@remzi.info**
 
 ### Connect with me:
